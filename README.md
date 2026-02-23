@@ -7,10 +7,6 @@ Parts 1-3. You make parts 4-x
 
 Unified Architecture for Emergent Life Simulation
 
-This document consolidates all systems from Carnival v3, S.A.M., the Universal Seed System, and the deep cognitive/social layers from our discussions. It serves as a living reference and implementation checklist.
-
----
-
 1. OVERVIEW: THREE‑LAYER ARCHITECTURE
 
 Layer Role Key Components
